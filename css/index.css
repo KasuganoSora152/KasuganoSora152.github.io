@@ -351,7 +351,7 @@ template {
   left: 5%;
   z-index: 1;
   color: var(--hr-before-color);
-  content: '\f2dc';
+  content: 'fas fa-snowflake';
   font-size: 20px;
   line-height: 1;
   -webkit-transition: all 1s ease-in-out;
@@ -5082,7 +5082,7 @@ figure.highlight pre .javascript .function {
   top: calc(50% - 7px);
   left: 0;
   color: #f47466;
-  content: '\f863';
+  content: 'fas fa-snowflake';
   line-height: 1;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
